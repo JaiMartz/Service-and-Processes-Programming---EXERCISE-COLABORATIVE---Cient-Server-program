@@ -1,0 +1,218 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 20:09:28 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\BCorpServidor\articulos.odb' is opened by 14560@DESKTOP-CAJ4QJJ
+
+[2019-05-11 20:09:28 #2 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 20:09:29 #3 type] 
+Type bcorpservidor.Articulo is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 20:33:40 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 3-3)
+
+[2019-05-11 20:33:40 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 224@DESKTOP-CAJ4QJJ
+
+[2019-05-11 20:33:40 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 20:33:40 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 20:44:30 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 4-4)
+
+[2019-05-11 20:44:31 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 6784@DESKTOP-CAJ4QJJ
+
+[2019-05-11 20:44:31 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 20:44:31 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 22:27:05 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 5-5)
+
+[2019-05-11 22:27:05 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 9012@DESKTOP-CAJ4QJJ
+
+[2019-05-11 22:27:05 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 22:27:05 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 22:28:08 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 6-6)
+
+[2019-05-11 22:28:08 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 19220@DESKTOP-CAJ4QJJ
+
+[2019-05-11 22:28:08 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 22:28:08 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 22:58:17 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 7-7)
+
+[2019-05-11 22:58:17 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 17052@DESKTOP-CAJ4QJJ
+
+[2019-05-11 22:58:17 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 22:58:17 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:03:18 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 8-8)
+
+[2019-05-11 23:03:18 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 16544@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:03:18 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:03:18 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:05:07 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 9-9)
+
+[2019-05-11 23:05:08 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 4660@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:05:08 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:05:08 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:16:09 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 10-10)
+
+[2019-05-11 23:16:09 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 3540@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:16:09 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:16:09 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:17:38 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 6368@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:17:38 #2 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:17:38 #3 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:19:32 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 7608@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:19:32 #2 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:19:32 #3 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:27:38 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 9304@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:27:38 #2 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:27:38 #3 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:33:04 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\BCorpServidor\datosClientes.odb' is opened by 18840@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:33:04 #2 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:33:04 #3 type.registry] 
+New type bcorpservidor.Articulo
+
+[2019-05-11 23:33:04 #4 type] 
+Type bcorpservidor.Articulo is not enhanced.
+
+[2019-05-11 23:33:11 #5 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\BCorpServidor\articulos.odb' is opened by 18840@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:33:11 #6 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:33:38 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 11-11)
+
+[2019-05-11 23:33:39 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 9004@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:33:39 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:33:39 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:48:58 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 12-12)
+
+[2019-05-11 23:48:59 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 19180@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:48:59 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:48:59 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-05-11 23:52:08 #1 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' has been recovered (tr. 13-13)
+
+[2019-05-11 23:52:08 #2 store] 
+Database 'E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\datosClientes.odb' is opened by 6468@DESKTOP-CAJ4QJJ
+
+[2019-05-11 23:52:08 #3 store] 
+Configuration path: E:\NetBeansProjects\Segundo_Cuatrimestre\PSP_Colaborativa\AIncServidor\libreriaODB\objectdb-2.8.0\objectdb.conf
+
+[2019-05-11 23:52:08 #4 type] 
+Type aincservidor.DatosClientes is not enhanced.
+
